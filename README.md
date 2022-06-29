@@ -1,7 +1,6 @@
 ### 디랙토리 구조
 
-```bash
-```
+![image](https://user-images.githubusercontent.com/83692797/176345913-ece336ef-ae89-4b58-8c8a-efb6cd44dea3.png)
 
 ### 기술스택
 
