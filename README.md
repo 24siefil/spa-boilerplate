@@ -8,4 +8,4 @@
 
 - **상태관리**: Redux with RTK, Redux Thunk
 
-- **스타일링**: Styled-components, Global Theming (Context API), Storybook
+- **스타일링**: Styled-components, Theme Provider (Context API), Storybook
